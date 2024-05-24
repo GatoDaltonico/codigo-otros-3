@@ -1,3 +1,5 @@
+//Verónica Chávez, me revisó Brenda Tiburcio saqué 5/5
+
 // Lista de productos
 
 const productos = [
